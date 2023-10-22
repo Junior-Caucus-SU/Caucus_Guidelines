@@ -1,3 +1,3 @@
 # Caucus_Guidelines
 
-This is the place with some of the rules and stuff for the I/T Department
+Hey guys! Welcome to the Juinor Cucus I/T department. Here, we will be working on projects that will help the caucus. This repo will outline the rules and regulations for the department.

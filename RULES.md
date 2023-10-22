@@ -1,7 +1,3 @@
-# Rules for the Juinor Caucus I/T Department
-
-Hey guys! Welcome to the Juinor Cucus I/T department. Here, we will be working on projects that will help the caucus. This document will outline the rules and regulations for the department.
-
 ## 1.0 - General Guidelines
 1. **Professionalism**: Maintain a professional attitude when dealing with with other members and with each other. Be respectful and courteous. Don't be late to meetings.
 
@@ -15,10 +11,4 @@ Hey guys! Welcome to the Juinor Cucus I/T department. Here, we will be working o
 
 
 
-## 2.0 - Strikes
-1. You can get a strike from these things:
-    - Not showing up to meetings
-    - Not doing your work
-
-2. If you get 3 strikes, you will be kicked out of the department.
 
