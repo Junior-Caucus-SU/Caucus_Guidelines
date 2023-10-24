@@ -4,6 +4,7 @@
     - Not showing up to meetings
     - Not doing your work
     - Not being communcative
+    - Being rude and disrespectful
 
 2. If you get 3 strikes, you will be kicked out of the department.
 
