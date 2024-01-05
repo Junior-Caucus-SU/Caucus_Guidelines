@@ -7,8 +7,8 @@
 - [x] Finish Rudimentary Design for the Website: *Nov 19*
 - [x] Complete Website Design: *Dec 1*
 - [x] Develop an initial version of the Website: *Dec 31*
-- [ ] Deploy 2nd version with content and full design implementation
-- [ ] Complete Final Website: *Jan 30*
+- [ ] Deploy 2nd version with content and full design implementation: *Jan 20*
+- [ ] Complete Final Website: *Feb 10*
 
 ### **Junior Prom Website**
 - [x] Finish Design: *End of 2023*
