@@ -1,5 +1,6 @@
 # Timeline for the Department
 
+
 ## **Junior Caucus Website**
 - [x] Complete wireframe on **Nov 19**
 > Basic structure, fundamental pages, navigation, etc. completed on Figma.
@@ -19,10 +20,12 @@
 - [ ] Complete third version on **Feb 12**
 > Official release of the website. Optimized performance and implemented all details. All departmental and caucus-wide texts, images, and external resources have been updated on the site.
 
-### **Junior Prom Website**
+
+## **Junior Prom Website**
 - [x] Finish design in **2023**
 - [ ] Future Pending
 
-### **Scanner**
+
+## **Scanner**
 - [x] Finish frontend implementation on **Nov 15**
 - [ ] Finish backend implementation on **Mar 15**
