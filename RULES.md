@@ -1,4 +1,4 @@
-### General Guidelines
+# General Guidelines
 1. **Professionalism**: Maintain a professional attitude when dealing with with other members and with each other. Be respectful and courteous. Don't be late to meetings.
 
 2. **Responsibility**: Be up front with what you did. If you made a mistake, own up to it. If you need help, ask for it. If you can't do something, say so. If you can't make a meeting, let us know.
