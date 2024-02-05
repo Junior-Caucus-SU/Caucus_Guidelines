@@ -15,9 +15,9 @@
 > Fulfilled all content and implemented the full intended design. Trivial design details should be left for the next version. Different departments should have fulfilled their images and texts at this point.
 
 > [!IMPORTANT] 
-> We have pushed this deployment to **Feb 2** due to time constraints. Future projects have been pushed back as well.
+> We have pushed this deployment to **Feb 5** due to time constraints. Future projects have been pushed back as well.
 
-- [ ] Complete third version on **Feb 12**
+- [ ] Complete third version on **Feb 20**
 > Official release of the website. Optimized performance and implemented all details. All departmental and caucus-wide texts, images, and external resources have been updated on the site.
 
 
