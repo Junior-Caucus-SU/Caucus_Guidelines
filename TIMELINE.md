@@ -17,8 +17,11 @@
 > [!IMPORTANT] 
 > Deployed on **Feb 5** due to time constraints. Future projects have been pushed back as well.
 
-- [ ] Complete third version on **Feb 20**
-> Official release of the website. Optimized performance and implemented all details. All departmental and caucus-wide texts, images, and external resources have been updated on the site.
+- [x] Checkpoint, **Feb 20**
+> Optimized performance and implemented most details. Started fulfilling departmental and caucus-wide texts and images and updating with live information.
+
+- [ ] Third and final version, **April 10**
+> Official release of the website. Finished reponsive adjustments with full mobile viewport support. Optimized performance and implemented all details. All departmental and caucus-wide texts, images, and external resources have been updated on the site. All live features working.
 
 
 ## **Junior Prom Website**
