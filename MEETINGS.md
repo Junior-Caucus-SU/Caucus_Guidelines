@@ -2,6 +2,7 @@
 
 | Date | Content |
 | ---- | ------- |
+| Future (Caucus) | Present mobile viewport and near-finished site |
 | 1/29/2024 9PM (Caucus) | Design review; copywriting and image resources |
 | 1/24/2024 8PM | Discussed resource page; assigned more issues; fixed animations |
 | 1/15/2024 8PM | General meeting; assigned work to all members, discussed pressing issues |
